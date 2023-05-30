@@ -1,6 +1,5 @@
+![tumblr_722fb07f13764fb24e8b3739d20c2c9c_03f33880_1280](https://github.com/Itz0xAkira/Itz0xAkira/assets/14275784/e240d87b-1c61-4044-adb1-9b710f8bc33e)
 
-![Untitled](https://github.com/Itz0xAkira/Itz0xAkira/assets/14275784/202dbd7f-1969-4885-a115-3e577e9c114e)
- 
 ---------------------------------------------------------------------------------------------------------------------------
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a Computer Engineering student and an aspiring indie game developer,
 Love to learn new things and new tech, Had my adventures in web 2.0 & web 3.0, desktop Apps & network tools.
