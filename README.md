@@ -33,9 +33,3 @@ Love to learn new things and new tech, Had my adventures in web 2.0 & web 3.0, d
 Join Up our little server :D
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/2ENar9c6Nq)](https://discord.gg/2ENar9c6Nq)
-
-###
-
-<img src="https://raw.githubusercontent.com/Itz0xAkira/Itz0xAkira/output/snake.svg" alt="Snake animation" />
-
-###
