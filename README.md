@@ -17,8 +17,6 @@ Love to learn new things and new tech, Had my adventures in web 2.0 & web 3.0, d
     <div align="center" class="flex flex-row">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Itz0xAkira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="145" alt="languages graph"  />
        <img src="https://streak-stats.demolab.com?user=Itz0xAkira&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="145" alt="streak graph"  />
-       
-    </div>
 </foreignObject>
 
 ###
