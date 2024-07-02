@@ -2,7 +2,7 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a Computer Engineering student and an aspiring indie game developer,
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a Computer Engineering student & Full-Stack Developer with the added value of an aspiring indie game developer :D,
 Love to learn new things and new tech, Had my adventures in web 2.0 & web 3.0, desktop Apps & network tools.
 
 - 🌱 I’m currently learning DevOps
