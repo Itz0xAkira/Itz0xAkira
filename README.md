@@ -32,6 +32,6 @@ Love to learn new things and new tech, Had my adventures in web 2.0 & web 3.0, d
 &nbsp;
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+	<img width="200" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
 
