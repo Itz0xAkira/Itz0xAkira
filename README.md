@@ -15,7 +15,9 @@ Love to learn new things and new tech, Had my adventures in web 2.0 & web 3.0, d
 
 <foreignObject width="100" height="100">
     <div align="center" class="flex flex-row">
-      <img width="2000" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />	
+      ![](https://github-readme-stats.vercel.app/api?username=Itz0xAkira&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Itz0xAkira&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itz0xAkira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </foreignObject>
 
 
