@@ -2,12 +2,31 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a Computer Engineering student & Full-Stack Developer with the added value of being an aspiring indie game developer :D,
-Love to learn new things and new tech, Had my adventures in web 2.0 & web 3.0, desktop Apps & network tools.
 
-- 🌱 I’m currently learning DevOps
-- 💬 Ask me about Sql ,OOP and Project ideas and how to get started
-- ⚡ Fun fact: I am gonna be the next skynet just wait for me. :3
+```json
+{
+  "greeting": "Hi.gif",
+  "profile": {
+	"Degree" : [
+      "Bs. Computer Engineering",
+     ],
+    "roles": [
+      "Full-Stack Developer",
+      "Aspiring Indie Game Developer"
+    ],
+    "description": "I love learning new things and exploring new technologies. I’ve had adventures in Web 2.0 and Web 3.0, desktop applications, and network tools. and I love building circuits & IoT Devices."
+  },
+  "currently_learning": [
+    "Cryptography",
+    "System design"
+  ],
+  "ask_me_about": [
+    "Project ideas",
+    "How to get started"
+  ],
+  "fun_fact": "I am going to be the next Skynet — just wait for me. :3"
+}
+```
 ---------------------------------------------------------------------------------------------------------------------------
 
 
@@ -29,7 +48,6 @@ Love to learn new things and new tech, Had my adventures in web 2.0 & web 3.0, d
 	
 <p align="center">
 	<img width="2000" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
-	
 </p>
 
 
