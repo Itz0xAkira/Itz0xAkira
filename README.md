@@ -8,9 +8,9 @@
   "greeting": "Hi.gif",
   "profile": {
 	"Degree" : [
-      "Bs. Computer Engineering",
+      "Bs. Computer Engineering: IT continuity and security",
       "Ms. Computer Engineering",
-      "PHIL. Philosophy: Artificial Intelligence"
+      "CSE. Philosophy: Artificial Intelligence"
      ],
     "roles": [
       "Full-Stack Developer",
