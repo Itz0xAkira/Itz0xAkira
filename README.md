@@ -9,6 +9,7 @@
   "profile": {
 	"Degree" : [
       "Bs. Computer Engineering",
+      "Ms. Computer Engineering"
      ],
     "roles": [
       "Full-Stack Developer",
