@@ -9,7 +9,6 @@
   "profile": {
 	"Degree" : [
       "Bs. Computer Engineering: IT continuity and security",
-      "Ms. Computer Engineering",
       "CSE. Philosophy: Artificial Intelligence"
      ],
     "roles": [
