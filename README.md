@@ -14,7 +14,8 @@
       "Full-Stack Developer",
       "Aspiring Indie Game Developer"
     ],
-    "description": "I love learning new things and exploring new technologies. I’ve had adventures in Web 2.0 and Web 3.0, desktop applications, and network tools. and I love building circuits & IoT Devices."
+    "description": "I love learning new things and exploring new technologies. I’ve had adventures in Web 2.0 and Web 3.0,
+     desktop applications, and network tools. and I love building circuits & IoT Devices."
   },
   "currently_learning": [
     "Cryptography",
