@@ -20,7 +20,7 @@ Love to learn new things and new tech, Had my adventures in web 2.0 & web 3.0, d
 
 ## My Tech Stack 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=ts,cpp,c,bash,cmake,godot,bots,aws,gcp,azure,react,next,express,nestjs,graphql,ipfs,jest,r,solidity,raspberrypi,arduino,redhat,nginx,docker,postgres,firebase,redis,kubernetes&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,cpp,c,bash,python,css,html,cmake,godot,bots,aws,gcp,azure,react,next,express,nestjs,graphql,ipfs,jest,r,solidity,raspberrypi,arduino,redhat,debian,nginx,docker,postgres,supabase,firebase,redis,kubernetes)](https://skillicons.dev)
 ----------------------------------------------------------------------------------------------------------------------------
 ##
 &nbsp;
