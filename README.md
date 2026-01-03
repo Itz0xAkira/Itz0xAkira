@@ -9,7 +9,8 @@
   "profile": {
 	"Degree" : [
       "Bs. Computer Engineering",
-      "Ms. Computer Engineering"
+      "Ms. Computer Engineering",
+      "PHIL. Philosophy: Artificial Intelligence"
      ],
     "roles": [
       "Full-Stack Developer",
