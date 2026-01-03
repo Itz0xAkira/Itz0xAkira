@@ -42,8 +42,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,cpp,c,bash,python,css,html,cmake,godot,bots,aws,gcp,azure,react,next,express,nestjs,graphql,ipfs,jest,r,solidity,raspberrypi,arduino,redhat,debian,nginx,docker,postgres,supabase,firebase,redis,kubernetes)](https://skillicons.dev)
 ----------------------------------------------------------------------------------------------------------------------------
-##
-&nbsp;
+
+
 
 
 	
