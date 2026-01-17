@@ -43,7 +43,7 @@
 ----------------------------------------------------------------------------------------------------------------------------
 ## My Tech Stack 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,rust,c,bash,python,css,html,cmake,godot,bots,aws,gcp,azure,react,next,express,graphql,ipfs,jest,r,solidity,arduino,alam,debian,nginx,docker,supabase,firebase,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,rust,c,bash,python,css,html,cmake,godot,bots,aws,gcp,azure,react,next,express,graphql,ipfs,jest,r,solidity,arduino,debian,nginx,docker,supabase,firebase,redis)](https://skillicons.dev)
 ----------------------------------------------------------------------------------------------------------------------------
 
 
